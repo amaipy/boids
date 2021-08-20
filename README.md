@@ -1,5 +1,7 @@
 # boids
-Scripts for Boids implementation on Unity (2020.2.0b6.3259)
+Scripts for Boids implementation on Unity (2020.2.0b6.3259).
+
+They were made as an assignment for the Computer Graphics course at UFMG in the first term of 2020 (01/2020).
 
 ## Implementation
 
